@@ -1,25 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.jpg";
+import "./App.css";
+import { ThemeProvider } from "@material-ui/core/styles";
+import OApp from "./EzyAgriComponents/navigation";
+
+const theme = {
+  roundness: 2,
+  colors: {
+    primary: "#556B2F",
+    accent: "#32CD32",
+  },
+};
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <OApp />
+    </ThemeProvider>
   );
 }
 
