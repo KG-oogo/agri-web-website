@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agri-web-website/static/css/main.85b8a94e.chunk.css",
+    "main.js": "/agri-web-website/static/js/main.fe491a13.chunk.js",
+    "main.js.map": "/agri-web-website/static/js/main.fe491a13.chunk.js.map",
+    "runtime-main.js": "/agri-web-website/static/js/runtime-main.b6d97907.js",
+    "runtime-main.js.map": "/agri-web-website/static/js/runtime-main.b6d97907.js.map",
+    "static/js/2.997f40da.chunk.js": "/agri-web-website/static/js/2.997f40da.chunk.js",
+    "static/js/2.997f40da.chunk.js.map": "/agri-web-website/static/js/2.997f40da.chunk.js.map",
+    "index.html": "/agri-web-website/index.html",
+    "precache-manifest.15414a98eecf7f74d5eed3384cd7a18b.js": "/agri-web-website/precache-manifest.15414a98eecf7f74d5eed3384cd7a18b.js",
+    "service-worker.js": "/agri-web-website/service-worker.js",
+    "static/css/main.85b8a94e.chunk.css.map": "/agri-web-website/static/css/main.85b8a94e.chunk.css.map",
+    "static/js/2.997f40da.chunk.js.LICENSE.txt": "/agri-web-website/static/js/2.997f40da.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/agri-web-website/static/media/logo.31a61ad5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6d97907.js",
+    "static/js/2.997f40da.chunk.js",
+    "static/css/main.85b8a94e.chunk.css",
+    "static/js/main.fe491a13.chunk.js"
+  ]
+}
